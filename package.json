@@ -5,14 +5,14 @@
   "dependencies": {
     "@croquet/croquet": "^1.0.5",
     "@croquet/react": "^1.0.3",
-    "@react-three/drei": "^7.5.1",
-    "@react-three/fiber": "^7.0.6",
+    "@react-three/drei": "^8.11.0",
+    "@react-three/fiber": "^7.0.26",
     "@types/three": "^0.152.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-joystick-component": "^6.2.1",
     "react-scripts": "5.0.1",
-    "three": "^0.153.0"
+    "three": "^0.152.0"
   },
   "scripts": {
     "start": "react-scripts start",
