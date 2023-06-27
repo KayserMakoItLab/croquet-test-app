@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+/* joystick */
+#joystick-container {
+  position: fixed;
+  z-index: 200;
+  bottom: 10%;
+  left: 45%;
+}
