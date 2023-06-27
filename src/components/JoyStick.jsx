@@ -25,6 +25,7 @@ const JoyStick = () => {
         baseColor="#c9c9c9"
         stickColor="#fff"
         move={publishEvents}
+        pos={joyStickEvents}
       />
 
       <h1>X: {joyStickEvents?.x}</h1>
